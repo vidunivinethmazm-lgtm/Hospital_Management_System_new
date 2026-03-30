@@ -8,13 +8,15 @@ __pycache__/
 # Virtual Environment
 venv/
 env/
-.env
 .venv/
 
 # IDE
-.vscode/
 .idea/
 
 # OS
 .DS_Store
 Thumbs.db
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
