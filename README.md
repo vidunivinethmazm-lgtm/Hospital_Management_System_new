@@ -1,2 +1,2 @@
-# Hospital_Management_System
-MTIT
+# Hospital_Management_System_new
+MTIT-new
